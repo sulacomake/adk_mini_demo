@@ -1,4 +1,1 @@
-# Google ADK Multi-Agent Demo: Teaching Assistant
-
-Demo
-# fluentdata_adk_data_agent
+# Google ADK Multi-Agent
